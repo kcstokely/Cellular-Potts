@@ -14,4 +14,4 @@ We loop through time, and at each time point try to cleverly vary the state of a
 
 We define an energy of the system based on cell shape and collagen overlap, and accept or reject variations with via Metropolis.
 
-In the end, we spit out a bunch of text files that can be read into Mathematic to make movies of what happened.
+In the end, we spit out a bunch of text files that can be read into Mathematica to make movies of what happened.
